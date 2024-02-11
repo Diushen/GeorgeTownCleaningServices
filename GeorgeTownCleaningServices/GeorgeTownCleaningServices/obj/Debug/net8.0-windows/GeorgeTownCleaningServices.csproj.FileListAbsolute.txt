@@ -1,0 +1,16 @@
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.frmPrincipal.resources
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.AssemblyInfo.cs
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\bin\Debug\net8.0-windows\GeorgeTownCleaningServices.exe
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\bin\Debug\net8.0-windows\GeorgeTownCleaningServices.deps.json
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\bin\Debug\net8.0-windows\GeorgeTownCleaningServices.runtimeconfig.json
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\bin\Debug\net8.0-windows\GeorgeTownCleaningServices.dll
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\bin\Debug\net8.0-windows\GeorgeTownCleaningServices.pdb
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.dll
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\refint\GeorgeTownCleaningServices.dll
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.pdb
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\GeorgeTownCleaningServices.genruntimeconfig.cache
+C:\Users\admin\Desktop\INTEC\Cuarto trimestre\Desarrollo de Software II\GeorgeTownCleaningServices\GeorgeTownCleaningServices\obj\Debug\net8.0-windows\ref\GeorgeTownCleaningServices.dll
